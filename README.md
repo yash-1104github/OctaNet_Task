@@ -3,6 +3,9 @@
 ## To-do-Web-Application
 Welcome to the To-Do Web Application! This project is a simple yet effective task management tool built with HTML, CSS, and JavaScript
 
+Live Demo: https://todoapplication-yash-1104githubs-projects.vercel.app/
+
+
 ### CRUD OPERATIONS:
     CREATE: Add new tasks effortlessly.
     READ: View all tasks with options to filter by completion status.
@@ -38,7 +41,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd todo-web-application
+  cd OctaNet_Task
 ```
 Open the index.html file in your preferred web browser.   
 That's it! The application should now be running locally on your machine.
