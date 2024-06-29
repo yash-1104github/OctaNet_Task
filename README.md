@@ -32,7 +32,7 @@ Persistent Storage: Tasks are saved in local storage, ensuring they persist even
 Clone the project
 
 ```bash
-  git clone https://github.com/yourusername/OctaNet_Task.git
+  git clone https://github.com/yash-1104github/OctaNet_Task.git
 ```
 
 Go to the project directory
