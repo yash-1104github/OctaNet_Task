@@ -35,13 +35,13 @@ Persistent Storage: Tasks are saved in local storage, ensuring they persist even
 Clone the project
 
 ```bash
-  git clone https://github.com/yash-1104github/OctaNet_Task.git
+  git clone https://github.com/yash-1104github/To-do-app.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd OctaNet_Task
+  cd Todo-WebApp
 ```
 Open the index.html file in your preferred web browser.   
 That's it! The application should now be running locally on your machine.
